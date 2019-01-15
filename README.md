@@ -9,7 +9,7 @@ This is a web-based application that reads RSS feeds for testing using [Jasmine]
 - Click [Here](https://arobotchan.github.io/feed-reader/) to run the test application on your browser
 
 
-## Tests
+## Tests will performed by application
 
 * Test checks at least a single entry element within the feed container
 * RSS Feed has a name defined and is not empty
